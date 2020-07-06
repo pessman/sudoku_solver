@@ -1,0 +1,2 @@
+class ArgumentNumberError(Exception):
+    pass
